@@ -40,12 +40,10 @@
 				"drill/gtkui/Main.d"
 			],
 			"dependencies": {
+                "datefmt": "~>1.0.3",
 				"gtk-d:gtkd": {
 					"path": "vendor/GtkD"
 				},
-				"datefmt": {
-					"path": "vendor/datefmt"
-				}
 			}
 		}
 	]
